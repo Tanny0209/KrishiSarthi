@@ -118,7 +118,7 @@ function NavigationBar() {
 
       <style jsx>{`
         .nav-bar {
-          background-color: #009400;
+          background-color: #004594ff;
           padding: 1rem 2rem;
           display: flex;
           justify-content: space-between;
